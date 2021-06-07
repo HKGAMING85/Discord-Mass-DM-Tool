@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * 
 *                                *
 *           Mass DM              *
-*        Author: 7teen           *
-*       Discord: 7teen#3868      *
+*        Author: DARK OP         *
+*       Discord: 👑ൠ đᵃгＫｏᑭ 🐺♢#5747      *
 *                                *
 * * * * * * * * * * * * * * * * */
 
@@ -20,7 +20,7 @@ const token = settings.token;
 // When client is on
 client.on("ready", () => {
     console.log(greenBright(client.user.tag + "is online.\n"));
-    client.user.setActivity({ name: "7teen !", type: "STREAMING", url: "https://www.twitch.tv/yourragegaming" })
+    client.user.setActivity({ name: "👑ൠ đᵃгＫｏᑭ 🐺♢#5747 Is Streaming", type: "STREAMING", url: "https://www.twitch.tv/yourragegaming" })
     Main();
 });
 
